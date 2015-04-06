@@ -1,4 +1,4 @@
-#O3 FED Coding Exercises
+#O3 Front End Development Exercises
 
 ## Instructions
 
