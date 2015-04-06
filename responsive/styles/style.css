@@ -5,11 +5,14 @@
 
 body {
 	font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+	background: #eeeeee;
 }
 
 .page-wrap {
-	width: 800px;
-	margin: 20px auto;
+	width: 840px;
+	margin: 0 auto;
+	padding: 20px;
+	background: #ffffff;
 }
 
 .main-story {
@@ -25,6 +28,40 @@ a {
 	color: orange;
 }
 
+nav {
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	float: left;
+	width: 160px;
+	border-left: 1px solid white;
+}
+
+nav li:first-child {
+	border-left: none;
+}
+
+nav a {
+	display: block;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	background: orange;
+	text-decoration: none;
+}
+
+nav a:hover {
+	background: gray;
+}
+
 .story-intro {
 	position: absolute;
 	bottom: 0;
@@ -38,6 +75,7 @@ a {
 h1 {
 	 font-size: 4em;
 }
+
 h1, h2 {
 	margin: 0 0 10px 0;
 }
@@ -51,7 +89,6 @@ h1, h2 {
 
 .sub-stories {
 	overflow: hidden;
-	margin: 0 0 25px 0;
 }
 
 .sub-story {
