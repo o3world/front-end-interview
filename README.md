@@ -51,7 +51,6 @@ The zip file contains the base HTML, CSS, images and mobile wireframes. Send the
 - What is the “Box Model”? Which properties make up the Box Model?
 - What are a few techniques for clearing a float?
 - If you were tasked with developing a site that used non-standard web fonts, how would you go about implementing them?
-- What is going in this selector?
-- [role=navigation] > ul a:not([href^=mailto]) { … }
+- What is going in this selector? [role=navigation] > ul a:not([href^=mailto]) { … }
 - What are some techniques for removing the space between inline-block elements.
 - How would you approach fixing browser-specific styling issues?
