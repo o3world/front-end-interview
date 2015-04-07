@@ -2,15 +2,15 @@
 
 ## Remote Exercises
 
-### Instructions
+#### Instructions
 
-- **Responsive Implementation**: Make this static page responsive. Attempt to make the design fit at any screen size. Below 480px wide, make the layout match the wireframe (see mobile-wireframe.pdf). 
+**Responsive Implementation**: Make this static page responsive. Attempt to make the design fit at any screen size. Below 480px wide, make the layout match the wireframe (see mobile-wireframe.pdf). 
 
-### Distribution
+#### Distribution
 
 The zip file contains the base HTML, CSS, images and mobile wireframes. Send the candidate the zip file and instructions above. Ask the candidate to post their completed work on their github repo. 
 
-### Evaluation Criteria
+#### Evaluation Criteria
 
 - Changing the pixel widths to percentages (how did they handle the math?)
 - Did they do anything special for large screens or just small?
@@ -21,7 +21,7 @@ The zip file contains the base HTML, CSS, images and mobile wireframes. Send the
 
 ## On-site Exercises
 
-### Instructions
+#### Instructions
 
 - **Fix the Layout**: Fix the layout so both columns fit side-by-side. Retain the existing padding around each column. 
 - **Markup Outline**: Print the image. Label each element in the image with the HTML element you would use to mark it up. Be as detailed as possible. 
