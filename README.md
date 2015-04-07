@@ -43,7 +43,7 @@ The zip file contains the base HTML, CSS, images and mobile wireframes. Send the
 - What is the difference between a class and an ID?
 - What are some attributes that can improve the accessibility of your front-end?
 - What is “Semantic HTML?”
-- Describe the difference between <script>, <script async> and <script defer>.
+- Describe the difference between `<script>`, `<script async>` and `<script defer>`.
 - Explain the concept of “separation of layers.”
 
 #### CSS
