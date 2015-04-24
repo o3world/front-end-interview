@@ -4,7 +4,7 @@
 
 #### Instructions
 
-**Responsive Implementation**: Make this static page responsive. Attempt to make the design fit at any screen size. Below 480px wide, make the layout match the wireframe (see mobile-wireframe.pdf). 
+**Responsive Implementation**: Make this static page responsive. Attempt to make the design fit at any screen size. Below 640px wide, make the layout match the wireframe (see mobile-wireframe.pdf). 
 
 #### Distribution
 

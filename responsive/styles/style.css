@@ -99,6 +99,13 @@ h1, h2 {
 	font-size: 80%;
 }
 
+.sub-story-intro {
+	width: 100%;
+	background: rgba(0, 0, 0, 0.75);
+	padding: 20px;
+	color: white;
+}
+
 .last {
 	margin-right: 0;
 }
