@@ -28,7 +28,7 @@ Jay Forbes (jay@o3world.com) for clarification.
 
 *** Advanced work ***
 
-If you knocked out the layout update, try implementing an image swap function:
+Finished the layout update? Try implementing an image swap function:
 
 1. When you click one of the lower images, that image should move to the top hero 
    spot and the current hero image should move to the image location you just clicked.
