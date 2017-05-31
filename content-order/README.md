@@ -1,4 +1,4 @@
-** OVERVIEW **
+# OVERVIEW
 
 Open the attached web page (index.html). Your task is to update the layout
 as follows:
