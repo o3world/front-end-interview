@@ -1,4 +1,4 @@
-# OVERVIEW
+# Overview
 
 Open the attached web page (index.html). The page is fixed at 840px wide. Do
 your best to make it fit appropriately at any screen size. We have included
@@ -11,7 +11,7 @@ Jay Forbes (jay@o3world.com) for clarification.
 
 
 
-## INSTRUCTIONS
+## Instructions
 
 
 *** At a minimum, your solution should ***
