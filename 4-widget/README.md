@@ -1,13 +1,13 @@
 # Overview
 
-Create a new HTML document and create markup for this restaurant widget.
+Create a new HTML document and add markup for this restaurant widget.
 
 ![Widget](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/4-widget/widget.jpg)
 
 ## Criteria
 
-* Use semantic markup
-* Use BEM methodology when creating classes in HTML and CSS
+* Use semantic markup 
+* Use BEM methodology when creating class names
 
-You do not have to develop CSS or JavaScript to make this functional. We just
-want to see your markup. 
+You do not have to develop CSS or JavaScript. We want to see how you
+approach the markup.
