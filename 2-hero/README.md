@@ -15,4 +15,4 @@ it's downloaded and then fade it in. The fade should take 1 second to complete.
 
 The end result will look something like this:
 
-![alt text](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/2-hero/example.png)
+![Hero example](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/2-hero/example.png)

@@ -7,7 +7,7 @@ as follows:
    content should be ordered as follows: `.header`, `.content`, `.navigation`,
    `.sidebar` and `.footer`.
 
-   ![alt text](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/3-content-order/default.png)
+   ![Single column example](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/3-content-order/default.png)
 
 2. At 768px wide and above, the layout should shift to a 3 column design. The
    `.header` comes first and is 100% wide. The `.navigation`, `.content` and
@@ -16,10 +16,10 @@ as follows:
    space. These three sections should be equal height. The `.footer` comes last
    and should be 100% wide.
 
-   ![alt text](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/3-content-order/3-col.png)
+   ![3 column example](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/3-content-order/3-col.png)
 
 3. Finally, the page sections should never exceed 1200px wide and it should be
    centered within the browser window although page content should
    be aligned to the left.
 
-Your solution should work in Chrome and Firefox at a minimum. 
+Your solution should work in Chrome and Firefox at a minimum.
