@@ -11,4 +11,8 @@ as follows:
 * The background image should have a green overlay (#468C00) at 50% opacity. This
 overlay should go on top of the image but not the text.
 * By default, the image will load from the top down. We want to hide the image until
-it's downloaded and then fade it in. The fade should take 1 second to complete. 
+it's downloaded and then fade it in. The fade should take 1 second to complete.
+
+The end result will look something like this:
+
+![alt text](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/2-hero/example.png)
