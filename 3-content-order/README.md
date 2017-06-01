@@ -16,5 +16,6 @@ as follows:
    centered within the browser window although the actually page content should
    be aligned to the left.
 
+The final result above 768px wide will look something like this:
 
 ![alt text](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/3-content-order/example.png)
