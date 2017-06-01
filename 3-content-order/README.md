@@ -19,5 +19,7 @@ as follows:
    ![alt text](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/3-content-order/3-col.png)
 
 3. Finally, the page sections should never exceed 1200px wide and it should be
-   centered within the browser window although the actually page content should
+   centered within the browser window although page content should
    be aligned to the left.
+
+Your solution should work in Chrome and Firefox at a minimum. 
