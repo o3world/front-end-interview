@@ -1,1 +1,0 @@
-Print out widget.jpg and indicate which HTML tags you would use to mark up each element. 
