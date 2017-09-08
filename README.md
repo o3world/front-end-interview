@@ -8,4 +8,4 @@ help us evaluate your experience with front end development.
 1. Create a new repo call "o3-fe-exercise" on [GitHub](https://github.com/). Post your
    code to this repo. If you do not have an account on GitHub, you can create a [free personal acccout](https://github.com/join).
 
-2. Email the link to your repo to [Jay Forbes](mailto:jay@o3world.com) and [Howie Ross](mailto:howie@o3world.com).
+2. Email the link to your repo to [Jay Forbes](mailto:jay@o3world.com).
