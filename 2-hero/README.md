@@ -15,6 +15,4 @@ Hide the image until it's downloaded and then fade it in. The fade
 should take 1 second to complete. Fading the image in should not affect the height
 of the hero container.
 
-The end result will look something like this:
-
-![Hero example](https://github.com/o3world/front-end-interview/blob/feature-revisions-062017/2-hero/example.png)
+The end result will look something like the example image.
