@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main>
+      <!--header-->
+      <header>
+        <h1>Cugino's Italian Eatery</h1>
+      </header>
+      <!--content-->
+      <div class="content">
+        <div class="content__top">
+          <p>This restaurant features various traditional italian dishes<br />
+            just like your grandmother used to make. Whether it's pizza,<br/>
+            pasta, or a salad, Cugino's has what you like </p>
+        </div>
+        <!-- info box -->
+        <div class="content__middle">
+          <div class="left-col">
+            <h4>Address</h4>
+            <p class="address">
+              215 New Rd. <br />
+              Philadelphia, PA<br />
+              19129
+            </p>
+            <h4>Phone</h4>
+            <p>215-213-1010</p>
+            <ul>
+              <li><span>Mon</span> Closed</li>
+              <li><span>Tue</span> Closed</li>
+              <li><span>Wed</span> 5:30 pm - 10:30pm</li>
+              <li><span>Thu</span> 5:30 pm - 10:30pm</li>
+              <li><span>Fri</span> 5:30 pm - 10:30pm</li>
+              <li><span>Sat</span> 5:30 pm - 10:30pm</li>
+              <li><span>Sun</span> 5:30 pm - 10:30pm</li>
+            </ul>
+          </div>
+          <aside>
+            <div class="right-call">
+              <button><i class="icon icon-camera"></i>Add Photos</button>
+              <button><i class="icon icon-share"></i>Share</button>
+              <button><i class="icon icon-bookmark"></i>Bookmark</button>
+            </div>
+            <div id="image">
+                <img src="./images/Capture.PNG">
+            </div>
+        </aside>
+        </div>
+      </div>
+      <!-- Footer -->
+      <footer>
+        <div class="footer-left">
+          <p>500 total reviews</p>
+          <div class="stars">
+            <input type="radio" name="rating" value="1" id="rating1" />
+            <label for="rating1"><span>1</span></label>
+            <input type="radio" name="rating" value="2" id="rating2" />
+            <label for="rating2"><span>2</span></label>
+            <input type="radio" name="rating" value="3" id="rating3" />
+            <label for="rating3"><span>3</span></label>
+            <input type="radio" name="rating" value="4" id="rating4" />
+            <label for="rating4"><span>4</span></label>
+            <input type="radio" name="rating" value="5" id="rating5" />
+            <label for="rating5"><span>5</span></label>
+          </div>
+        </div>
+        <div class="footer-right">
+          <a href="/reviews">
+            <svg class="icon">
+              <use xlink:href="/images/main.svg#icon-star"></use>
+            </svg>
+            Write a Review
+          </a>
+        </div>
+      </footer>
+    </main>
+  </body>
+</html>
